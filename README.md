@@ -1,1 +1,2 @@
-# discord-backup2.js
+# backup-bot
+backup-bot
